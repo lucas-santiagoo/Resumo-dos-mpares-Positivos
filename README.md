@@ -1,4 +1,4 @@
-# Resumo-dos-mpares-Positivos.
+# Resumo-dos-impares-Positivos.
 O projeto tem como base, a partir de uma entrada em verificar os números impares, a quantidade, a soma, o maior e menor numero.
 
 - input: |
