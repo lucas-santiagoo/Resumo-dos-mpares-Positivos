@@ -1,5 +1,6 @@
 # Resumo-dos-impares-Positivos.
-O projeto tem como base, a partir de uma entrada em verificar os números impares, a quantidade, a soma, o maior e menor numero.
+O projeto em python,tem como base:
+A partir de uma entrada em verificar os números impares, a quantidade, a soma, o maior e menor numero.
 
 - input: |
     8 1 3 7 20 26 5
